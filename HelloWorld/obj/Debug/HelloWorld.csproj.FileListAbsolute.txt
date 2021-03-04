@@ -1,0 +1,7 @@
+C:\Users\F601205\Documents\ProjetAzur\AzurDemo\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\F601205\Documents\ProjetAzur\AzurDemo\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\F601205\Documents\ProjetAzur\AzurDemo\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\F601205\Documents\ProjetAzur\AzurDemo\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\F601205\Documents\ProjetAzur\AzurDemo\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\F601205\Documents\ProjetAzur\AzurDemo\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\F601205\Documents\ProjetAzur\AzurDemo\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
